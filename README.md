@@ -3,8 +3,16 @@ Hibiscus is a content-less webpage that can serve as inspiration for other appli
 
 # Design
 - Nav:
-![Footer](/img/.PNG)
+From the navigation bar, you can access the different sections of the website. Additionally, there is a search bar in case you want to find specific articles using keywords. (I was using an already implemented search bar, but the idea is to implement my own search engine).
+
+![nav](/img/1.PNG)
+
+The previous was the view from a PC, but with a mobile phone there is implemented a responsive nav:
+
+![nav](/img/7.PNG) ![nav](/img/8.PNG) ![nav](/img/9.PNG)
+
+
 - Footer-links:
-![Footer](/img/.PNG)
+![Footer-links](/img/5.PNG)
 - Footer:
-![Footer](/img/.PNG)
+![Footer](/img/6.PNG)
